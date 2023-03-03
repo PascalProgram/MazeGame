@@ -1,0 +1,2 @@
+# MazeGame
+Simple JavaFX application
